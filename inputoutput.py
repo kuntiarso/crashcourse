@@ -67,3 +67,37 @@ name, age, country = tup
 print(name + ', ' + age + ', ' + country)
 
 print()
+
+
+# Sort Funcs
+print('Sort Funcs'.center(30, ':'))
+
+arr1 = ['car', 'bus', 'plane', 'helicopter']
+arr1.sort()
+print(arr1)
+arr1.sort(reverse=True)
+print(arr1)
+
+print()
+
+arr2 = ['car', 'bus', 'Plane', 'Helicopter']
+arr2.sort()
+print(arr2)
+arr2.sort(key=str.lower)
+print(arr2)
+
+print()
+
+
+# Operator Funcs
+print('Operator Funcs'.center(30, ':'))
+
+from operator import *
+
+lima = 5
+sepuluh = 10
+
+for func in (lt, le, eq, ne, ge, gt):
+    print('{}(lima, sepuluh): {}'.format(func.__name__, func(lima, sepuluh)))
+
+print()
