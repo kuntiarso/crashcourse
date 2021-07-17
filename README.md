@@ -8,5 +8,9 @@
 
 💡 How to run a modul:
 ```
+# clone this repo
+git clone git@github.com:kuntiarso/crashcourse.git
+
+# run a modul
 python3 inputoutput.py
 ```
