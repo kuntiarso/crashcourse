@@ -1,0 +1,4 @@
+# Python
+:page_with_curl: List modul:
+
+1. [Input/Output and Operation in Python](https://github.com/kuntiarso/crashcourse/blob/python/inputoutput.py)
