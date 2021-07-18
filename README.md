@@ -5,6 +5,8 @@
 2. [Style Guide in Python](https://github.com/kuntiarso/crashcourse/blob/python/controlflow.py)
 3. [Exception Handler in Python](https://github.com/kuntiarso/crashcourse/blob/python/exceptionhandler.py)
 3. [Function and Method in Python](https://github.com/kuntiarso/crashcourse/blob/python/function.py)
+3. [Unit Testing in Python](https://github.com/kuntiarso/crashcourse/blob/python/testingunit.py)
+3. [Essential Libraries in Python](https://github.com/kuntiarso/crashcourse/blob/python/libraries.py)
 
 
 💡 How to run a modul:
