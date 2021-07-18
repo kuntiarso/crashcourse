@@ -4,6 +4,7 @@
 1. [Input/Output and Operators in Python](https://github.com/kuntiarso/crashcourse/blob/python/inputoutput.py)
 2. [Style Guide in Python](https://github.com/kuntiarso/crashcourse/blob/python/controlflow.py)
 3. [Exception Handler in Python](https://github.com/kuntiarso/crashcourse/blob/python/exceptionhandler.py)
+3. [Function and Method in Python](https://github.com/kuntiarso/crashcourse/blob/python/function.py)
 
 
 💡 How to run a modul:
