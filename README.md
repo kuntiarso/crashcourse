@@ -1,7 +1,7 @@
 # Java (Intermediate)
 :page_with_curl: List modul:
 
-1. Enumeration&nbsp;&nbsp;
+1. Enumeration  
 1.1 [Enum Class](https://github.com/kuntiarso/crashcourse/blob/java/enumeration/Main.java)
 2. Serialization
 
