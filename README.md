@@ -2,8 +2,8 @@
 :page_with_curl: List modul:
 
 1. Enumeration
-..1.1 [Enum Class](https://github.com/kuntiarso/crashcourse/blob/java/enumeration/Main.java)
-2. [Style Guide in Python](https://github.com/kuntiarso/crashcourse/blob/python/controlflow.py)
+1.1 [Enum Class](https://github.com/kuntiarso/crashcourse/blob/java/enumeration/Main.java)
+2. Serialization
 
 
 💡 How to run a modul:
