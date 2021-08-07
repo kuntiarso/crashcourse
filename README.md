@@ -1,6 +1,19 @@
-# CrashCourse
-When I was learning a programming language,  
-I've oftenly made essential notes or scripts to remember in the future day.  
-I thought that it also good to be shared for everyone who learning.  
-Here I share the modul and put it here :octocat: in some different branches.  
-Get out and check to my branches now:bangbang:
+# Java (Intermediate)
+:page_with_curl: List modul:
+
+1. Enumeration
+..1.1 [Enum Class](https://github.com/kuntiarso/crashcourse/blob/java/enumeration/Main.java)
+2. [Style Guide in Python](https://github.com/kuntiarso/crashcourse/blob/python/controlflow.py)
+
+
+💡 How to run a modul:
+```
+# clone this repo
+git clone git@github.com:kuntiarso/crashcourse.git
+
+# move to java branch
+git checkout java
+
+# run a modul
+javac enumeration/Main.java && java enumeration/Main
+```
